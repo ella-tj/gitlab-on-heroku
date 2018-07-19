@@ -1,0 +1,8 @@
+{
+  "name": "Gitlab-on-Heroku",
+  "description": "deploy gitlab on Heroku.",
+  "keywords": ["gitlab","git"],
+  "website": "https://github.com/koori69/gitlab-on-heroku",
+  "repository": "https://github.com/koori69/gitlab-on-heroku",
+  "stack": "container"
+ }
